@@ -1,4 +1,4 @@
-TELEGRAM_TOKEN = "8370967199:AAEH1hh5kRkkBzQZDAdh_7wngOkCullp8ao"
-GROUP_ID = -1002192511803  # ID nhóm (supergroup)
-TOPIC_ID = 7742  # ID topic trong group
+TELEGRAM_TOKEN = ""
+GROUP_ID =   # ID nhóm (supergroup)
+TOPIC_ID =   # ID topic trong group
 ACCESSTRADE_TOKEN = "5380416064546582876"
